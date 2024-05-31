@@ -1,18 +1,15 @@
-# Getting Started with Create React App
+# Code Editor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple code editor built using React and Prism JS for syntax highlighting.
 
-## Available Scripts
+## Table of Contents
+Introduction
+Technologies Used
+Implementation Details
+Submission Details
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Introduction
+The Prodios Labs Code Editor is a React-based web application that provides users with a simple interface for writing and editing code. It utilizes Prism JS for syntax highlighting, providing users with a more intuitive and visually appealing coding experience.
 
 ### `npm test`
 
